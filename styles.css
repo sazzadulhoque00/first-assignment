@@ -202,9 +202,10 @@ body {
     justify-content:space-between;
     padding: 50px;
 }
-.last-section-bg{
-    background-image: url("../Flower Asset/Rectangle 9.png");
+.last-section-container{
+    background-image: url("Flower Asset/Rectangle 9.png");
     background-repeat: no-repeat;
+    border-radius: 8px;
     margin: 50px 50px;
     padding: 150px 550px;
     

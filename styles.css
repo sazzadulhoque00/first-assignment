@@ -150,8 +150,12 @@ body {
 
 .fourth-section-text {
     margin: 150px 0;
-    padding:75px 0px ;
+    padding: 75px 0px;
     text-align: center;
+}
+
+.make-it-orrange {
+    color: #E55473;
 }
 
 .deal-text {
@@ -160,7 +164,8 @@ body {
     font-size: 35px;
     font-weight: 700;
 }
-.deal-para{
+
+.deal-para {
     color: rgba(39, 39, 39, 0.60);
     font-family: Lato;
     font-size: 18px;
@@ -169,6 +174,31 @@ body {
     padding: 15px 0px;
 }
 
-.make-it-orrange {
-    color: #E55473;
+.social-para {
+    margin-top: 50px;
+
+}
+
+.insta {
+    text-align: center;
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.social-description {
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.insta-img{
+    height: 350px;
+    display: flex;
+    gap: 5px;
+    justify-content:space-between;
+    padding: 50px;
 }

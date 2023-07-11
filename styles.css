@@ -202,3 +202,64 @@ body {
     justify-content:space-between;
     padding: 50px;
 }
+.last-section-bg{
+    background-image: url('/Flower\ Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    margin: 50px 50px;
+    padding: 150px 550px;
+    
+
+}
+.last-section{
+    text-align: center;
+}
+.last-section-title{
+    color: #272727;
+font-family: Lato;
+font-size: 34px;
+font-weight: 800;
+}
+.last-section-para{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.submit-button{
+    display: flex;
+    gap: 5px;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.input-email{
+    padding: 10px 300px 10px 20px;
+    border: none;
+    border-radius: 8px;
+}
+.footer-section{
+    text-align: center;
+    background: #111010;
+    color: #FFF;
+    padding: 100px 0px;
+}
+.footer-title{
+font-size: 48px;
+font-weight: 800;
+}
+#orange-shade{
+    color: #E55473;
+}
+.footer-para{
+    color: rgba(255, 255, 255, 0.90);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;  
+    padding: 10px 10px;
+}
+.footer-feet{
+    color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-weight: 400;
+
+}

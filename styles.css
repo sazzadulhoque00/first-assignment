@@ -135,10 +135,40 @@ body {
     text-align: center;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
-    margin:50px;
+    margin: 50px;
     padding-top: 35px;
     padding-bottom: 35px;
+}
 
+.fourth-section {
+    display: flex;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    align-items: center;
+    justify-content: space-around;
+}
 
+.fourth-section-text {
+    margin: 150px 0;
+    padding:75px 0px ;
+    text-align: center;
+}
 
+.deal-text {
+    color: #272727;
+    font-family: Lato;
+    font-size: 35px;
+    font-weight: 700;
+}
+.deal-para{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    padding: 15px 0px;
+}
+
+.make-it-orrange {
+    color: #E55473;
 }
